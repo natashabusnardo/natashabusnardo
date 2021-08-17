@@ -1,13 +1,13 @@
 # Hi, I'm Natasha 🦊
 
-# About ME 💬 :
+# About me:
 
-### - I'm a 21 years old Computer Sciente student from Brazil.
+### - I'm a 21 years old computer science student from Brazil and currently working at Capgemini.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/YNhKSlGrgxsAAAAC/one-piece-luffy.gif">
 
 ### - Learning :
-- ✨ PHP, JS, CSS and Angular
+- ✨ Java and Angular
 
 
 ### - Hobbies : 
@@ -21,19 +21,6 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/angular.png" alt="Angular" width="90" hight="50">
-</br>
-</br>
-</br>
-
-
 
 # Contact Me :
 
@@ -41,10 +28,10 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://64.media.tumblr.com/tumblr_ma8ye0a9Rm1qeyvy7.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just get in touch.
 
 <a href="mailto:natashabusnardo@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
