@@ -11,9 +11,9 @@
 
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Manga and Books
+- ✨ Gameaholic 
+- ✨ Watch Anime
+- ✨ Read Manga and Books
 
 </br>
 </br>
