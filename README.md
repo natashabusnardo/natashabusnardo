@@ -1,15 +1,10 @@
 # Hi, I'm Natasha 🦊
 
-</br>
-</br>
-</br>
-
-
 # About ME 💬 :
 
 ### - I'm a 21 years old Computer Sciente student from Brazil.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/YNhKSlGrgxsAAAAC/one-piece-luffy.gif">
 
 ### - Learning :
 - ✨ PHP, JS, CSS and Angular
@@ -33,7 +28,7 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/angular.png" alt="Angular" width="90" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/angular.png" alt="Angular" width="90" hight="50">
 </br>
 </br>
 </br>
@@ -75,10 +70,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+<div>
+  <a href="https://github.com/natashabusnardo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natashabusnardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashabusnardo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 *************
