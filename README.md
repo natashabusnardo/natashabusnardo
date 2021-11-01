@@ -1,59 +1,12 @@
-# Hi, I'm Natasha 🦊
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.imgur.com/JePmgpa.gif)
 
-# About me:
-
-### - I'm a 21 years old computer science student from Brazil and currently working at Capgemini.
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/YNhKSlGrgxsAAAAC/one-piece-luffy.gif">
+### Hi, I'm Natasha 🦊
+ I'm a 21 years old computer science student from Brazil and currently working at Capgemini as a backend developer.
 
 ### - Learning :
 - ✨ Java and Angular
-
-
-### - Hobbies : 
-- ✨ Gameaholic 
-- ✨ Watch Anime
-- ✨ Read Manga and Books
-
-</br>
-</br>
-</br>
-
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://i.giphy.com/media/9AwehINrFLueI/giphy.webp">
-
-If you want to reach out to me about anything, have any question about one of my repositories, wanna talk to me or just want to game together:  get in touch.
-
-<a href="mailto:natashabusnardo@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="www.linkedin.com/in/natashabusnardo">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-<a href="https://steamcommunity.com/id/natashaab">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 
 
 <div>
@@ -61,5 +14,17 @@ If you want to reach out to me about anything, have any question about one of my
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natashabusnardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashabusnardo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="natasha-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img align="center" alt="natasha-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="natasha-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="natasha-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+  <img align="center" alt="natasha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="right" alt="natasha-pic" height="150" src="https://c.tenor.com/cuF9zxZ8WqQAAAAM/nobara-comiendo.gif" style="max-width: 50%;">
+</div>
+  
+  ##
+  
 
 *************
