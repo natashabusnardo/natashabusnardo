@@ -25,6 +25,6 @@
 </div>
   
   ##
-  
+![Snake animation](https://github.com/natashabusnardo/natashabusnardo/blob/output/github-contribution-grid-snake.svg)
 
 *************
