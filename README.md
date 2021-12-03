@@ -6,7 +6,7 @@
  I'm a 21 years old computer science student from Brazil and currently working at Capgemini as a backend developer.
 
 ### - Learning :
-- ✨ Java and Angular
+- ✨ Java Spring Boot and AWS
 
 
 <div>
@@ -18,8 +18,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="natasha-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="natasha-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="natasha-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
- <img align="center" alt="natasha-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="natasha-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+   <img align="center" alt="natasha-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="natasha-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img align="center" alt="natasha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="right" alt="natasha-pic" height="150" src="https://c.tenor.com/cuF9zxZ8WqQAAAAM/nobara-comiendo.gif" style="max-width: 50%;">
