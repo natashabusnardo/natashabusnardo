@@ -6,7 +6,7 @@
  I'm a 21 years old computer science student from Brazil and currently working at Capgemini as a backend developer.
 
 ### - Learning :
-- ✨ Java Spring Boot and AWS
+- ✨ Java Spring Boot
 
 
 <div>
@@ -18,8 +18,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="natasha-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="natasha-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="natasha-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img align="center" alt="natasha-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="natasha-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="natasha-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img align="center" alt="natasha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="right" alt="natasha-pic" height="150" src="https://c.tenor.com/cuF9zxZ8WqQAAAAM/nobara-comiendo.gif" style="max-width: 50%;">
@@ -27,11 +26,8 @@
   
   ##
  <div> 
-  <a href="https://instagram.com/natashabusnardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Dwm22fPtQt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:natashabusnardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natashabusnardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://steamcommunity.com/id/natashaab/"><img src="https://img.shields.io/badge/-Steam-232633?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/natashabusnardo/natashabusnardo/blob/output/github-contribution-grid-snake.svg)
  
