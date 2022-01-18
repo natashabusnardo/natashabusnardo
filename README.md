@@ -3,7 +3,7 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.imgur.com/JePmgpa.gif)
 
 ### Hi, I'm Natasha 🦊
- I'm a 21 years old computer science student from Brazil and currently working at Capgemini as a backend developer.
+ I'm a 22 years old computer science student from Brazil and currently working at Capgemini as a backend developer.
 
 ### - Learning :
 - ✨ Java Spring Boot
