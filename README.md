@@ -1,7 +1,7 @@
 <h4 align="center">
 
 ### Hi, I'm Natasha 🦊
-I'm a computer scientist from Brazil and currently working at Mercado Livre as a backend developer. I'm currently studying **software architecture** and improving my skills in Kotlin and Go.
+I'm a computer scientist from Brazil and currently working at Mercado Livre as a backend developer. I'm currently studying **software architecture** and improving my skills in system architecture.
 
 ### Stats
 <div>
